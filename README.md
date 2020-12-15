@@ -1,10 +1,9 @@
-<!--
-**utsavgadhiya/utsavgadhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **utsavgadhiya/utsavgadhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hello, folks! 👋
 
 My name is Utsav Gadhiya and I'm a Software Developer/Cybersecurity Enthusiast. I'm from Gujarat and currently working at SRKay Consulting Group. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3] .
+
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Editor-code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -20,16 +19,9 @@ My name is Utsav Gadhiya and I'm a Software Developer/Cybersecurity Enthusiast. 
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter)
+[2.2]: http://i.imgur.com/9I6NRUm.png (Github)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- links to your social media accounts -->
 
@@ -47,12 +39,11 @@ My name is Utsav Gadhiya and I'm a Software Developer/Cybersecurity Enthusiast. 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavgadhiya&layout=compact&hide=html" alt="utsavgadhiya" /></p>
 
-<!-- mail -->
+<!-- Mail -->
 
 📫 You can reach out to me at **utsavpatel3913@gmail.com**
 
 <!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
 <!-- Social Icons: http://i.imgur.com/ -->
 <!-- Shields: https://shields.io/ -->
 <!-- Inspired from: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
