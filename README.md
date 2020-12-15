@@ -37,6 +37,20 @@ My name is Utsav Gadhiya and I'm a Software Developer/Cybersecurity Enthusiast. 
 [2]: https://github.com/utsavgadhiya
 [3]: https://www.linkedin.com/in/utsav-gadhiya19
 
+<!-- Projects -->
+
+💻 Checkout my github.io profile [utsavgadhiya.github.io](utsavgadhiya.github.io)
+
+💻 All of my repos are available at [github.com/utsavgadhiya?tab=repositories](github.com/utsavgadhiya?tab=repositories)
+
+<!-- Github States -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavgadhiya&layout=compact&hide=html" alt="utsavgadhiya" /></p>
+
+<!-- mail -->
+
+📫 You can reach out to me at **utsavpatel3913@gmail.com**
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Social Icons: http://i.imgur.com/ -->
